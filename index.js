@@ -2,7 +2,6 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 
 const config = {
-	key        : "",
 	start_time : "2023-04-01 08:00:30",
 	end_time   : "2023-04-01 08:00:35",
 };
